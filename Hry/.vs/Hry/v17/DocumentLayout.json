@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\2. 25-26\\Vys\\kamenuzkypapir\\Hry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA23C176-D950-418D-B2D6-8C99BC0461AD}|Hry\\Hry.csproj|g:\\2. 25-26\\vys\\kamenuzkypapir\\hry\\hry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA23C176-D950-418D-B2D6-8C99BC0461AD}|Hry\\Hry.csproj|solutionrelative:hry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\2. 25-26\\Vys\\kamenuzkypapir\\Hry\\Hry\\Program.cs",
+              "RelativeDocumentMoniker": "Hry\\Program.cs",
+              "ToolTip": "G:\\2. 25-26\\Vys\\kamenuzkypapir\\Hry\\Hry\\Program.cs",
+              "RelativeToolTip": "Hry\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T09:06:55.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
